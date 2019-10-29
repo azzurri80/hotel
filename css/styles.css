@@ -27,3 +27,21 @@ p {
   font-style: italic;
   font-weight: 600;
 }
+
+.hotel {
+  float: left;
+  width: 33%;
+  color: #008B8B;
+}
+
+.outside {
+  float: left;
+  width: 33%;
+  color: #008B8B;
+}
+
+.interior {
+  float: left;
+  width: 33%;
+  color: #008B8B;
+}
