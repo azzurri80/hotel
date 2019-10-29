@@ -12,8 +12,10 @@ h1 {
 }
 
 ul {
+  border: 10px solid #008B8B;
+  padding: 20px;
+  border-radius: 10px;
   float: left;
-  width: 230px;
 }
 
 .hotel {
