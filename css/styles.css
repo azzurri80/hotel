@@ -1,5 +1,6 @@
 body {
-  background-color: #33CCFF;
+
+  background-color: #00FFCC;
 }
 
 h1 {
@@ -12,36 +13,23 @@ h1 {
 
 ul {
   float: left;
-  border-top: 2px solid #003300;
-  border-bottom: 2px solid #003300;
-  padding: 5px;
-}
-
-p {
-  float: right;
-  width: 500px;
-  font-style: normal;
-}
-
-.contact {
-  font-style: italic;
-  font-weight: 600;
+  width: 230px;
 }
 
 .hotel {
   float: left;
-  width: 33%;
+  width: 230px;
   color: #008B8B;
 }
 
 .outside {
   float: left;
-  width: 33%;
+  width: 230px;
   color: #008B8B;
 }
 
 .interior {
   float: left;
-  width: 33%;
+  width: 230px;
   color: #008B8B;
 }
